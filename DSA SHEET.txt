@@ -1,0 +1,123 @@
+DSA Problems-
+Level- Basics->
+Arrays
+Sum of Array Elements
+Max of Array Elements
+Reverse Array
+Subarrays of Array
+Transpose of a Matrix
+Rotate 2D Array Clockwise by 90 Degrees
+ArrayList
+Basics of ArrayList
+Operations on ArrayList
+Remove all Even Numbers
+Strings
+Remove Vowels from a String
+Reverse Vowels of a String
+Convert all the Uppercase to Lowercase
+Sorting
+Selection Sort
+Bubble Sort
+Insertion Sort
+Arrays.sort()
+Recursion
+Print Increasing
+Display Array
+First Index in Array
+Factorial
+LinkedList
+Add / Remove / Print LinkedList
+Length of LinkedList
+Search K in a LinkedList
+Mid of LinkedList
+Stack and Queue
+Stack Implementation
+Queue Implementation
+Reverse First K Elements of Queue
+Tree
+Tree Traversal
+Size of Tree
+Sum of Tree
+Max of Tree
+Heap
+Heap Introduction
+Kth Largest Element
+HashMap
+Max Frequency Character
+Get Common Element
+First Repeating Character
+Graph
+BFS of Graph
+DFS of Graph
+Rotting Oranges
+Number of Islands
+Dynamic Programming
+Fibonacci Number
+Climb Stairs
+Minimum Path Sum
+Level- Intermediate->
+MODULE 1 – Arrays:
+2 Sum
+3 Sum
+Smallest Number
+Majority Element
+Rotate Matrix by 90 Degree
+Spiral Matrix
+MODULE 2 – Binary Search:
+First and Last Index
+Search In Sorted And Rotated Array
+Minimum In Sorted and Rotated Array
+Search In Sorted Matrix
+MODULE 3 – Recursion and Backtracking:
+Print Permutations
+Target Sum Subsets
+N Queens
+Sudoku Solver
+MODULE 4 – Dynamic Programming:
+Fibonacci Problem
+Climb Stairs
+Longest Increasing Subsequence
+Longest Common Subsequence
+Maximum Subarray Sum - Kadane's Algo
+K-Concat
+MODULE 5 – Sorting:
+Sort 01
+Sort 012
+Counting Sort
+Radix Sort
+Sort Dates
+Merge Two Sorted Arrays
+Merge Sort
+MODULE 6 – Stack and Queue:
+Valid Parentheses
+Reverse Polish Notation
+Merge Intervals
+Next Greater Element
+MODULE 7 – Linked List:
+Reverse a Linked List
+Find Middle Node
+Is Linked List Palindrome
+Reverse K Nodes
+Detect Cycle
+First Node of Cycle
+MODULE 8 – Trees:
+- Level Order Traversal
+- Level Order ZigZag
+Construct Binary Tree
+- K Level Down
+K Distance Away
+Cameras In Binary Tree
+MODULE 9 – HashMap:
+Longest Consecutive Elements
+Subarrays With Sum K
+Longest Subarray With Sum K
+Longest Subarray With Sum Divisible By K
+Count Of Subarrays With Sum Divisible By K
+MODULE 10 – Heap:
+Merge K Sorted Lists
+K Closest Points
+Median PriorityQueue
+MODULE 11 – Graphs:
+Is Graph Cyclic
+Min Swaps To Sort The Array
+Color Borders
