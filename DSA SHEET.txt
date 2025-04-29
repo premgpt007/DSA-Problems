@@ -1,123 +1,552 @@
-DSA Problems-
-Level- Basics->
-Arrays
-Sum of Array Elements
-Max of Array Elements
-Reverse Array
-Subarrays of Array
-Transpose of a Matrix
-Rotate 2D Array Clockwise by 90 Degrees
-ArrayList
-Basics of ArrayList
-Operations on ArrayList
-Remove all Even Numbers
-Strings
-Remove Vowels from a String
-Reverse Vowels of a String
-Convert all the Uppercase to Lowercase
-Sorting
-Selection Sort
-Bubble Sort
-Insertion Sort
-Arrays.sort()
-Recursion
-Print Increasing
-Display Array
-First Index in Array
-Factorial
-LinkedList
-Add / Remove / Print LinkedList
-Length of LinkedList
-Search K in a LinkedList
-Mid of LinkedList
-Stack and Queue
-Stack Implementation
-Queue Implementation
-Reverse First K Elements of Queue
-Tree
-Tree Traversal
-Size of Tree
-Sum of Tree
-Max of Tree
-Heap
-Heap Introduction
-Kth Largest Element
-HashMap
-Max Frequency Character
-Get Common Element
-First Repeating Character
-Graph
-BFS of Graph
-DFS of Graph
-Rotting Oranges
-Number of Islands
-Dynamic Programming
+DSA Problem List
+📌 Arrays & ArrayList
+Easy:
+
+
+Two Sum
+
+
+Best Time to Buy and Sell Stock
+
+
+Remove Duplicates from Sorted Array
+
+
+Move Zeroes
+
+
+Valid Mountain Array​MediumDEV Community
+
+
+Medium:
+
+
+3Sum
+
+
+Container With Most Water
+
+
+Product of Array Except Self​
+
+
+Hard:
+
+
+First Missing Positive
+
+
+Trapping Rain Water​
+
+
+
+📌 Strings
+Easy:
+
+
+Valid Palindrome
+
+
+Implement strStr()
+
+
+Longest Common Prefix
+
+
+Reverse String
+
+
+Valid Anagram​Medium
+
+
+Medium:
+
+
+Longest Substring Without Repeating Characters
+
+
+Group Anagrams
+
+
+Longest Palindromic Substring​Medium
+
+
+Hard:
+
+
+Regular Expression Matching
+
+
+Wildcard Matching​
+
+
+
+📌 Recursion
+Easy:
+
+
+Factorial Trailing Zeroes
+
+
+Power of Two
+
+
 Fibonacci Number
-Climb Stairs
-Minimum Path Sum
-Level- Intermediate->
-MODULE 1 – Arrays:
-2 Sum
-3 Sum
-Smallest Number
-Majority Element
-Rotate Matrix by 90 Degree
-Spiral Matrix
-MODULE 2 – Binary Search:
-First and Last Index
-Search In Sorted And Rotated Array
-Minimum In Sorted and Rotated Array
-Search In Sorted Matrix
-MODULE 3 – Recursion and Backtracking:
-Print Permutations
-Target Sum Subsets
-N Queens
+
+
+Reverse Linked List
+
+
+Maximum Depth of Binary Tree​
+
+
+Medium:
+
+
+Letter Combinations of a Phone Number
+
+
+Generate Parentheses
+
+
+Permutations​
+
+
+Hard:
+
+
 Sudoku Solver
-MODULE 4 – Dynamic Programming:
-Fibonacci Problem
-Climb Stairs
-Longest Increasing Subsequence
-Longest Common Subsequence
-Maximum Subarray Sum - Kadane's Algo
-K-Concat
-MODULE 5 – Sorting:
-Sort 01
-Sort 012
-Counting Sort
-Radix Sort
-Sort Dates
-Merge Two Sorted Arrays
-Merge Sort
-MODULE 6 – Stack and Queue:
+
+
+N-Queens​
+
+
+
+📌 Linked List
+Easy:
+
+
+Reverse Linked List
+
+
+Merge Two Sorted Lists
+
+
+Linked List Cycle
+
+
+Remove Linked List Elements
+
+
+Palindrome Linked List​MediumDEV Community
+
+
+Medium:
+
+
+Add Two Numbers
+
+
+Copy List with Random Pointer
+
+
+LRU Cache​Medium
+
+
+Hard:
+
+
+Merge k Sorted Lists
+
+
+Reverse Nodes in k-Group​
+
+
+
+📌 Stack (5 Problems)
 Valid Parentheses
-Reverse Polish Notation
-Merge Intervals
-Next Greater Element
-MODULE 7 – Linked List:
-Reverse a Linked List
-Find Middle Node
-Is Linked List Palindrome
-Reverse K Nodes
-Detect Cycle
-First Node of Cycle
-MODULE 8 – Trees:
-- Level Order Traversal
-- Level Order ZigZag
-Construct Binary Tree
-- K Level Down
-K Distance Away
-Cameras In Binary Tree
-MODULE 9 – HashMap:
-Longest Consecutive Elements
-Subarrays With Sum K
-Longest Subarray With Sum K
-Longest Subarray With Sum Divisible By K
-Count Of Subarrays With Sum Divisible By K
-MODULE 10 – Heap:
-Merge K Sorted Lists
-K Closest Points
-Median PriorityQueue
-MODULE 11 – Graphs:
-Is Graph Cyclic
-Min Swaps To Sort The Array
-Color Borders
+
+
+Min Stack
+
+
+Evaluate Reverse Polish Notation
+
+
+Daily Temperatures
+
+
+Largest Rectangle in Histogram​Medium
+
+
+
+📌 Queue (5 Problems)
+Implement Queue using Stacks
+
+
+Number of Recent Calls
+
+
+Moving Average from Data Stream
+
+
+Perfect Squares
+
+
+Sliding Window Maximum​
+
+
+
+📌 Deque (5 Problems)
+Sliding Window Maximum
+
+
+Design Circular Deque
+
+
+Palindrome Checker
+
+
+Shortest Subarray with Sum at Least K
+
+
+Max Sliding Window​
+
+
+
+📌 Priority Queue (5 Problems)
+Kth Largest Element in an Array
+
+
+Top K Frequent Elements
+
+
+Merge k Sorted Lists
+
+
+Find Median from Data Stream
+
+
+Reorganize String​
+
+
+
+📌 Binary Tree (5 Problems)
+Maximum Depth of Binary Tree
+
+
+Invert Binary Tree
+
+
+Diameter of Binary Tree
+
+
+Binary Tree Level Order Traversal
+
+
+Serialize and Deserialize Binary Tree​
+
+
+
+📌 Binary Search Tree (5 Problems)
+Validate Binary Search Tree
+
+
+Lowest Common Ancestor of a BST
+
+
+Convert Sorted Array to BST
+
+
+Kth Smallest Element in a BST
+
+
+Recover Binary Search Tree
+
+📌 Trie (5 Problems)
+Implement Trie (Prefix Tree)
+
+
+Add and Search Word - Data structure design
+
+
+Word Search II
+
+
+Replace Words
+
+
+Palindrome Pairs
+
+
+
+📌 Heap (Priority Queue-based)
+Easy:
+
+
+Last Stone Weight
+
+
+Kth Largest Element in a Stream
+
+
+Minimum Cost to Connect Sticks
+
+
+Medium:
+ 4. Design Twitter
+ 5. Task Scheduler
+
+
+Hard:
+ 6. Merge k Sorted Lists
+ 7. Find Median from Data Stream
+
+
+
+📌 HashMap
+Easy:
+
+
+Two Sum
+
+
+Valid Anagram
+
+
+First Unique Character in a String
+
+
+Intersection of Two Arrays II
+
+
+Contains Duplicate
+
+
+Medium:
+ 6. Group Anagrams
+ 7. Subarray Sum Equals K
+ 8. Copy List with Random Pointer
+
+
+Hard:
+ 9. LFU Cache
+ 10. Substring with Concatenation of All Words
+
+
+
+📌 Graph (15 Problems Including All Algos)
+Graph Traversal (DFS/BFS):
+
+
+Number of Islands
+
+
+Clone Graph
+
+
+Course Schedule
+
+
+Union-Find:
+ 4. Graph Valid Tree
+ 5. Redundant Connection
+
+
+Topological Sort:
+ 6. Course Schedule II
+ 7. Alien Dictionary
+
+
+Shortest Path:
+ 8. Network Delay Time
+ 9. Cheapest Flights Within K Stops
+ 10. Dijkstra with Priority Queue – Path With Minimum Effort
+
+
+MST / Kruskal / Prim:
+ 11. Minimum Cost to Connect All Points
+ 12. Optimize Water Distribution in a Village
+
+
+Backtracking + Graph:
+ 13. Word Search
+
+
+Advanced:
+ 14. Reconstruct Itinerary
+ 15. Accounts Merge
+
+
+
+📌 Dynamic Programming
+Easy:
+
+
+Climbing Stairs
+
+
+House Robber
+
+
+Fibonacci Number
+
+
+Min Cost Climbing Stairs
+
+
+Maximum Subarray
+
+
+Medium:
+ 6. Coin Change
+ 7. Longest Increasing Subsequence
+ 8. Partition Equal Subset Sum
+
+
+Hard:
+ 9. Edit Distance
+ 10. Burst Balloons
+
+
+
+📌 Greedy
+Easy:
+
+
+Assign Cookies
+
+
+Can Place Flowers
+
+
+Best Time to Buy and Sell Stock II
+
+
+Lemonade Change
+
+
+Is Subsequence
+
+
+Medium:
+ 6. Jump Game
+ 7. Partition Labels
+ 8. Non-overlapping Intervals
+
+
+Hard:
+ 9. Minimum Number of Taps to Open to Water a Garden
+ 10. Split Array with Same Average
+
+
+
+📌 Backtracking
+Easy:
+
+
+Letter Case Permutation
+
+
+Subsets
+
+
+Combinations
+
+
+Palindrome Partitioning
+
+
+Combination Sum III
+
+
+Medium:
+ 6. Combination Sum
+ 7. Generate Parentheses
+ 8. Permutations
+
+
+Hard:
+ 9. N-Queens
+ 10. Sudoku Solver
+
+
+
+📌 Bit Manipulation
+Easy:
+
+
+Single Number
+
+
+Number of 1 Bits
+
+
+Power of Two
+
+
+Reverse Bits
+
+
+Hamming Distance
+
+
+Medium:
+ 6. Single Number II
+ 7. Missing Number
+ 8. Counting Bits
+
+
+Hard:
+ 9. Maximum XOR of Two Numbers in an Array
+ 10. Smallest Sufficient Team
+
+
+
+📌 Math
+Easy:
+
+
+Fizz Buzz
+
+
+Count Primes
+
+
+Happy Number
+
+
+Excel Sheet Column Number
+
+
+Power of Three
+
+
+Medium:
+ 6. Integer to Roman
+ 7. Pow(x, n)
+ 8. Rotate Function
+
+
+Hard:
+ 9. Basic Calculator
+ 10. Super Pow
+
+
+
+📌 Sliding Window (5 Problems)
+Maximum Average Subarray I
+
+
+Longest Substring Without Repeating Characters
+
+
+Minimum Size Subarray Sum
+
+
+Sliding Window Maximum
+
+
+Permutation in String
+
+
